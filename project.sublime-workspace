@@ -1,0 +1,381 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"ara",
+				"ARCADE"
+			],
+			[
+				"create",
+				"createMultiple"
+			],
+			[
+				"anc",
+				"anchor"
+			],
+			[
+				"c",
+				"c"
+			],
+			[
+				"t",
+				"this"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 633,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "script.js",
+			"settings":
+			{
+				"buffer_size": 913,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "project.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "insall",
+		"selected_items":
+		[
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Install Package Control"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 223.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Users/janek/Documents/GitHub/elias"
+	],
+	"file_history":
+	[
+		"/D/Users/janek/Documents/GitHub/elias/sftp-config.json",
+		"/D/Users/janek/Documents/GitHub/elias/package.json",
+		"/D/Users/janek/Documents/GitHub/elias/script.js",
+		"/D/Users/janek/Documents/GitHub/elias/index.html",
+		"/D/Users/janek/Documents/nwProject/test/package.json",
+		"/D/Users/janek/Documents/nwProject/test/script.js",
+		"/D/Users/janek/Documents/nwProject/test/index.html",
+		"/D/Users/janek/Documents/Phaser/phaser2/index.html",
+		"/D/Users/janek/Documents/Phaser/phaser2/play.js",
+		"/D/Users/janek/Documents/Phaser/phaser2/main.js",
+		"/D/Users/janek/Documents/GitHub/theBridge/serialGamePad.js",
+		"/D/Users/janek/Documents/Phaser/phaser2/sublimeProject.sublime-project",
+		"/D/Program Files (x86)/YGOPro/script/constant.lua",
+		"/D/Program Files (x86)/YGOPro/script/c82633039.lua",
+		"/D/Program Files (x86)/YGOPro/script/c923596.lua",
+		"/D/Program Files (x86)/YGOPro/script/c52097679.lua",
+		"/D/Program Files (x86)/YGOPro/script/c20366274.lua",
+		"/D/Program Files (x86)/YGOPro/script/c12345679.lua",
+		"/D/Program Files (x86)/YGOPro/script/c110000002.lua",
+		"/D/Program Files (x86)/YGOPro/script/c110000001.lua",
+		"/D/Program Files (x86)/YGOPro/script/c110000000.lua",
+		"/D/Program Files/Sublime Text 3/Packages/C#.sublime-package",
+		"/D/Users/janek/Documents/Xfer/Serum Presets/Presets/User/LD Scream.fxp",
+		"/D/Users/janek/Documents/Phaser/Project 1/main.js"
+	],
+	"find":
+	{
+		"height": 57.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"name",
+			"tileset",
+			"kac",
+			")",
+			"Key",
+			"image",
+			"image.",
+			"image",
+			"');\n",
+			"ground",
+			"e1",
+			"1fe0000",
+			"0x1fe0000",
+			"LOCATION",
+			"TYPE",
+			"72",
+			"c73628505",
+			"c5318639",
+			"c89997728",
+			"0x62",
+			"clock",
+			"einstein"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"userName",
+			"e2",
+			"c12345679",
+			"clock"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 633,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								357,
+								357
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 913,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "project.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 49.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 184.0
+	},
+	"pinned_build_system": "Packages/Lua/Lua.sublime-build",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 108.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
