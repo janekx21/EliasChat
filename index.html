@@ -1,0 +1,36 @@
+<html>
+<head>
+	<title>Upload</title>
+	<script type="text/javascript" src="script.js"></script>
+	<style>
+		*{
+			transition: all 1s;
+			font-size: 3vw;
+		}
+		input {
+			transition: 1s;
+			width:100px;
+			background: white;
+			color:black;
+		}
+		input:focus{
+			width:200px;
+			background: black;
+			color:white;
+		} 
+		button{
+			border:2px dotted black;
+		}
+
+	</style>
+</head>
+<body>
+
+	<input  type="text" value="Name" id="userName">
+    <input onchange="myFunction()" type="text" value="Text" id="feld">
+    <button onclick="myFunction()">Senden</button>
+	<p>Hoffentlich funktioniert es...</p>
+  	<p id="demo"></p>
+	
+</body>
+</html>
